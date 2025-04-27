@@ -14,7 +14,7 @@ setup(
     description="A Python library for styling pandas DataFrames with beautiful, customizable themes",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/panda-pigment",
+    url="https://github.com/will-garrett/panda-pigment",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
